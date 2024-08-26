@@ -8,7 +8,7 @@ Desafio técnico - Pleno
   ## Desafio:
     * Crie uma aplicação em camadas
     * Implemente um crud
-        * Crie 3 objetos, sendo Usuario, Vendedor, Cliente e Master
+        * Crie 4 objetos, sendo Usuario, Vendedor, Cliente e Master
             * Cada objeto deve possuir atributos semelhantes, alguns deve possuir atributos diferentes
             * Utilize atributos como nome, email para Usuario, apenas o Vendedor e Cliente possuem atributos diferentes, porem é um Usuario
             * O Master, alem de ser um Usuario, pode ter perfis de Vendedor e Cliente
