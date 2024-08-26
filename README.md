@@ -10,7 +10,7 @@ Desafio técnico - Pleno
     * Implemente um crud
         * Crie 4 objetos, sendo Usuario, Vendedor, Cliente e Master
             * Cada objeto deve possuir atributos semelhantes, alguns deve possuir atributos diferentes
-            * Utilize atributos como nome, email para Usuario, apenas o Vendedor e Cliente possuem atributos diferentes, porem é um Usuario
+            * Utilize atributos como nome, email para Usuario, apenas o Vendedor e Cliente possuem atributos diferentes, porem ambos são um Usuario
             * O Master, alem de ser um Usuario, pode ter perfis de Vendedor e Cliente
         * Construa um serviço rest que recebe um dto, mapeie a request para o dominio construido.
         * Realize tratamentos para cada exceção que possa ocorrer
