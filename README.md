@@ -14,8 +14,8 @@ Desafio técnico - Pleno
             * O Master, alem de ser um Usuario, pode ter perfis de Vendedor e Cliente
         * Construa um serviço rest que recebe um dto, mapeie a request para o dominio construido.
         * Realize tratamentos para cada exceção que possa ocorrer
-        * Crie outros seviços para ler os dados cadastrados, ler o dado via parametro, atualizar e deletar
         * Persista os dados em base dados
+        * Crie outros seviços para ler os dados cadastrados, ler o dado via parametro, atualizar e deletar
     * Crie testes unitários para válidar os serviços disponíveis
     * Crie a documentação dos serviços rest com Swagger OpenApi
     * Realize a construção da aplicação utilizando boas práticas de desenvolvimento.
