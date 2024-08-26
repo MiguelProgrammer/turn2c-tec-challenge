@@ -18,7 +18,7 @@ Desafio técnico - Pleno
         * Crie outros seviços para ler os dados cadastrados, ler o dado via parametro, atualizar e deletar
     * Crie testes unitários para válidar os serviços disponíveis
     * Crie a documentação dos serviços rest com Swagger OpenApi
-    * Realize a construção da aplicação utilizando boas práticas de desenvolvimento.
+    * Realize a construção da aplicação utilizando boas práticas de programação OO.
     * Utilize no minimo 3 patterns, sendo um deles builder
     * Utilize Solid e clean code
     * Suba o projeto em seu repositório, nele, precisa conter o README.md,
